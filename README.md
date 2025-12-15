@@ -12,9 +12,9 @@ ESP8266 (WiFi)
         ↓
 Adafruit IO (Cloud – MQTT)
         ↓                ↓
-   Python ML		Node-RED
- (Isolation Forest	(Monitoring &
-   Anomaly Detection)	Alerts)
+ Python ML		Node-RED
+(Isolation Forest	(Monitoring &
+ Anomaly Detection)	Alerts)
 ```  
 
 
